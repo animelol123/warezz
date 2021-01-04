@@ -29,7 +29,7 @@ sidebar_label: Discord
 - [r/PkgLinks](https://discord.io/PkgLinks) - Reddup game sharing Discord Server.
 - [r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
-- [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
+- [AniméGlare](https://discord.com/invite/zU27Ugs) - Official AniméGlare Discord channel.
 - [AniméVibe](https://discordapp.com/invite/4QGvkw8) - Official AniméVibe Discord channel.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
 - [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
